@@ -17,8 +17,8 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateEditor
     - UnityEditor.Graphs.AnimationStateMachine.StateNode
-    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -50,19 +50,19 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11150}
+      Script: {instanceID: 11166}
     - Class: 114
-      Script: {instanceID: 11246}
+      Script: {instanceID: 11262}
     - Class: 114
-      Script: {instanceID: 11362}
+      Script: {instanceID: 11378}
     - Class: 114
-      Script: {instanceID: 11776}
+      Script: {instanceID: 11792}
     - Class: 114
-      Script: {instanceID: 12692}
+      Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 13072}
+      Script: {instanceID: 13088}
     - Class: 114
-      Script: {instanceID: 13076}
+      Script: {instanceID: 13092}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -531,4 +531,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Title.unity
   - Assets/Scenes/sample.unity
-  playerPath: "C:/Users/color/OneDrive/\uBC14\uD0D5 \uD654\uBA74/title play/Title.exe"
+  playerPath: "C:/Users/color/OneDrive/\uBC14\uD0D5 \uD654\uBA74/\uAD6C\uD604/Title.exe"
